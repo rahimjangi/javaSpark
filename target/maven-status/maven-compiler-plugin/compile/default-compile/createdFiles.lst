@@ -1,0 +1,3 @@
+org\raiseup\sparkguide\JavaSpark.class
+org\raiseup\sparkguide\rdd\take\Uppercase.class
+org\raiseup\sparkguide\rdd\take\WordCount.class
